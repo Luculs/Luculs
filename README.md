@@ -4,9 +4,9 @@
   <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">yuna0x0 (edisonlee55)</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mqyuaz)</a>!</h1>
 <h1 align="center">El ~~MITO~~ hecho REALIDAD</h1>
-
+~~MITO~~
 <p align="center">
   <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
 </p>
