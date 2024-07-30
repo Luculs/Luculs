@@ -33,3 +33,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### Mis redes sociales
+
+[<img src='https://github.com/Luculs/Luculs/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/Luculs/)
+[<img src='https://github.com/Luculs/Luculs/raw/master/assets/twitter.png' alt='Twitter' width='24' style='width:24px; margin-right: 10px;'/>](https://twitter.com/Luculs)
+[<img src='https://github.com/Luculs/Luculs/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/Luculs/)
+[<img src='https://github.com/Luculs/Luculs/raw/master/assets/pinterest.png' alt='Pinterest' width='24' style='width:24px; margin-right: 10px;'/>](https://www.pinterest.com.mx/arthurolg/)
+[<img src='https://github.com/Luculs/Luculs/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/Luculs)
+[<img src='https://github.com/Luculs/Luculs/raw/master/assets/tumblr.png' alt='Tumblr' width='24' style='width:24px; margin-right: 10px;'/>](https://Luculs.tumblr.com/)
+
+---
