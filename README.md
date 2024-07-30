@@ -1,6 +1,7 @@
 ## Hi there 👋
+<p align="center">
 ![Mayquaz - Programador](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s)
-
+</p>
 <p align="center">
   <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
