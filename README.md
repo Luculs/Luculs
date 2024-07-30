@@ -2,9 +2,7 @@
 
 ![Mayquaz - Programador](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s)
 
-<p align="center">
-  <a href="https://www.youtube/Luculs.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
-</p>
+<img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mqyuaz)</a>!</h1>
 <h1 align="center">El ~~MITO~~ hecho REALIDAD</h1>
