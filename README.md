@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mqyuaz)</a>!</h1>
 <h1 align="center">El ~~MITO~~ hecho REALIDAD</h1>
-~~MITO~~
+~~~MITO~~~
 <p align="center">
   <a href="https://github.com/Luculs"><img src="https://github-readme-stats.vercel.app/api?username=Luculs&hide_border=true&show_icons=true" alt="Luculs's github stats"></a>
 </p>
