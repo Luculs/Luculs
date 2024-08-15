@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-![Mayquaz - Programador](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s)
+![Mayquaz - Programador](https://media0.giphy.com/media/7JvhBYRunwMVeXyo4u/giphy.gif)
 
 <img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mqyuaz)</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mayquaz)</a>!</h1>
 <h1 align="center">El ~~MITO~~ hecho REALIDAD</h1>
 ~~~MITO~~~
 <p align="center">
