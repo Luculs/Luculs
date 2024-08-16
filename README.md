@@ -5,7 +5,7 @@
   </div>
 </div>
 
-![Mayquaz - Programador]([https://media0.giphy.com/media/7JvhBYRunwMVeXyo4u/giphy.gif](https://www.youtube.com/watch?v=04PjmOqsEWc))
+[![Mayquaz Video](https://img.youtube.com/vi/04PjmOqsEWc/hqdefault.jpg)](https://www.youtube.com/watch?v=04PjmOqsEWc)
 
 <img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
 
