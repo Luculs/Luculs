@@ -11,7 +11,7 @@
     Mayquaz
   </div>
 </div>
-<img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
+<img align='left' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mayquaz)</a>!</h1>
 <h1 align="center">El ~~MITO~~ hecho REALIDAD</h1>
