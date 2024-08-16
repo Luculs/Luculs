@@ -11,11 +11,11 @@
     Mayquaz
   </div>
 </div>
-<img align='left' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
+<img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mayquaz)</a>!</h1>
-<h1 align="center">El ~~MITO~~ hecho REALIDAD</h1>
-~~~MITO~~~
+<h1 align="center">El __MITO__ hecho REALIDAD</h1>
+__MITO__
 <p align="center">
   <a href="https://github.com/Luculs"><img src="https://github-readme-stats.vercel.app/api?username=Luculs&hide_border=true&show_icons=true" alt="Luculs's github stats"></a>
 </p>
