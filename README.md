@@ -5,8 +5,12 @@
   </div>
 </div>
 
-[![Mayquaz Video](https://img.youtube.com/vi/04PjmOqsEWc/hqdefault.jpg)](https://www.youtube.com/watch?v=04PjmOqsEWc)
-
+<div style="position: relative; text-align: center; width: 100%;">
+  <img src="https://i.ytimg.com/vi/04PjmOqsEWc/maxresdefault.jpg" alt="Imagen" style="width: 100%;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold;">
+    Mayquaz
+  </div>
+</div>
 <img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQkXnxkNcYmWmhL9YeZwCq0NlFu4ajiFUqw&s' width='200'>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Luculs (Mayquaz)</a>!</h1>
